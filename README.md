@@ -1,20 +1,20 @@
 # What is this?
 
-Get perfec fitness diet macros and infos about how you can reach your goals just by passing an object.
+Get perfect fitness diet macros and infos about how you can reach your goals just by passing an object.
 
 # Installation
 
-`npm i fit-calc --save`
+`npm i fitcalc --save`
 
 Then...
 
 ```
-import { fitCalc } from 'fit-calc';
+import { fitCalc } from 'fitcalc';
 
 fitCalc({
     gender: 'male',
-    weight: 66,
-    height: 168,
+    weight: 70,
+    height: 170,
     age: 28,
     dailyActivityLevel: 1.55,
     bodyFatPercentage: 13,
