@@ -1,0 +1,27 @@
+{
+    "ectomorph": {
+        "proteinRatio": 30,
+        "carboHydrateRatio": 50,
+        "fatRatio": 20
+    },
+    "meso-ecto": {
+        "proteinRatio": 35,
+        "carboHydrateRatio": 45,
+        "fatRatio": 20
+    },
+    "meso": {
+        "proteinRatio": 40,
+        "carboHydrateRatio": 40,
+        "fatRatio": 20
+    },
+    "meso-endo": {
+        "proteinRatio": 45,
+        "carboHydrateRatio": 35,
+        "fatRatio": 20
+    },
+    "endo": {
+        "proteinRatio": 50,
+        "carboHydrateRatio": 30,
+        "fatRatio": 20
+    }
+}
