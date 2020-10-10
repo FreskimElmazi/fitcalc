@@ -130,4 +130,4 @@ function fitCalc (options) {
     };
 };
 
-module.exports.calculate = calculate;
+module.exports.fitCalc = fitCalc;
