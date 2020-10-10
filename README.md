@@ -21,6 +21,18 @@ fitCalc({
     bodyType: 'meso',
     goal: 'mass-gain'
 });
+
+
+Example of response:
+{
+  bmr: 1685.44,
+  lbm: 60.9,
+  recommendedCourseOfAction: 'Fat loss recommended first',
+  requiredCaloricIntake: 2912.12,
+  weightChange: '1-2 kg',
+  optimalRatios: { proteinRatio: 40, carboHydrateRatio: 40, fatRatio: 20 },
+  macros: { protein: 291, carbs: 291, fat: 64 }
+}
 ```
 
 # Options
