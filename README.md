@@ -11,7 +11,7 @@ Then...
 ```
 import { fitCalc } from 'fitcalc';
 or
-const fitCalc = require('fitcalc).fitcalc;
+const fitCalc = require('fitcalc').fitcalc;
 
 fitCalc({
     gender: 'male',
