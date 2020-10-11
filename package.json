@@ -1,6 +1,6 @@
 {
   "name": "fitcalc",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get perfec fitness diet macros and infos about how you can reach your goals just by passing an object.",
   "main": "index.js",
   "scripts": {
