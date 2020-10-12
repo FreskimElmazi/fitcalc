@@ -1,6 +1,6 @@
 # What is this?
 
-Get perfect fitness diet macros and infos about how you can reach your goals just by passing an object.
+Get perfect fitness diet macros and infos about how you can reach your goals just by passing an object
 
 # Installation
 
