@@ -1,7 +1,7 @@
 {
   "name": "fitcalc",
   "version": "1.0.3",
-  "description": "Get perfec fitness diet macros and infos about how you can reach your goals just by passing an object.",
+  "description": "Get perfect fitness diet macros and infos about how you can reach your goals just by passing an object.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,13 @@
     "url": "git+https://github.com/FreskimElmazi/fit-calc.git"
   },
   "keywords": [
-    "diet"
+    "diet",
+    "fitness",
+    "diet planner",
+    "fit",
+    "body building",
+    "healthy",
+    "calories"
   ],
   "author": "Freskim Elmazi",
   "license": "ISC",
